@@ -1,0 +1,8 @@
+{
+	"MUTE_VOTE_TIME" : 60,
+	"MIN_MUTE_VOTERS" : 3,
+	"MUTE_TIME" : 600,
+
+	"STATUS_LOOP" : 60
+
+}
